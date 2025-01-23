@@ -2,7 +2,7 @@
 
 A terminal based implementation of Conway's Game of Life in golang.
 
-Run `go run main.go`
+Run `go run src/main.go`
 
 ## How to play
 
